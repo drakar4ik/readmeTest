@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestGitHub\TestGitHub.csproj" />
+    <ProjectReference Include="..\src\TestGitHub\TestGitHub.csproj" />
   </ItemGroup>
 
 </Project>
